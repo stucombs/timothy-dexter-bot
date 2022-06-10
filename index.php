@@ -5,9 +5,9 @@
     * DESCRIPTION: main script file for twitter bot
     * AUTHOR: stucombs at icloud dot com
     */
-    require_once( './required/configuration.php' );
-    require_once('./classes/Tweeter.class.php');
-    DEFINE('READFILE', 'assets/apickle.txt');
+    require_once( __DIR__ . '/required/configuration.php' );
+    require_once(__DIR__ . '/classes/Tweeter.class.php');
+    DEFINE('READFILE', __DIR__ . '/assets/apickle.txt');
 
     global $_APPLICATION;
     $settings = array(
