@@ -3,7 +3,7 @@
 * FILE: classes/Tweeter.class.php
 * DATE: 01/08/2022
 * DESCRIPTION: class for authentication and posting tweet
-* AUTHOR: stucombs at icloud dot com
+* AUTHOR: stu.combs at icloud dot com
 */
 
 class Tweeter {

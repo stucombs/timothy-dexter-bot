@@ -3,7 +3,7 @@
     * FILE: index.php
     * DATE: 06/08/2292
     * DESCRIPTION: main script file for twitter bot
-    * AUTHOR: stucombs at icloud dot com
+    * AUTHOR: stu.combs at icloud dot com
     */
     require_once( __DIR__ . '/required/configuration.php' );
     require_once(__DIR__ . '/classes/Tweeter.class.php');
